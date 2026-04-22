@@ -1,8 +1,8 @@
-   ---
-   layout: default
-   title:
-   robots: noindex
-   ---
+---
+layout: default
+title:
+robots: noindex
+---
 
 # 🚀 Как подключиться к VPN
 
