@@ -75,4 +75,4 @@ robots: noindex
 
 ---
 
-💬 Поддержка: https://t.me/FreeProxy_support_bot
+💬 [Поддержка](https://t.me/FreeProxy_support_bot)
