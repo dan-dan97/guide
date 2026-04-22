@@ -93,4 +93,4 @@ robots: noindex
 ## 💬 Поддержка
 
 Если возникли проблемы или вопросы — напишите:  
-https://t.me/FreeProxy_support_bot
+[https://t.me/FreeProxy_support_bot](https://t.me/FreeProxy_support_bot)
