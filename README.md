@@ -1,1 +1,1 @@
-# proxy-guide
+# guide
